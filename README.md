@@ -2,17 +2,20 @@
 
 🧑‍💻 Engenheiro de Software | Criador de Soluções Inovadoras
 
-🔹 Desenvolvedor apaixonado por JavaScript, React e Node.js.
-🔹 Entusiasta de arquitetura de software, boas práticas e tecnologia moderna.
-🔹 Sempre buscando criar soluções eficientes, escaláveis e elegantes.
+🚀 Transformando ideias em código com eficiência e criatividade.
+
+🔹 Desenvolvedor apaixonado por JavaScript, React, Node.js e tecnologia de ponta.🔹 Especialista em arquitetura de software, design patterns e boas práticas.🔹 Buscando sempre eficiência, escalabilidade e elegância no desenvolvimento.
 
 📍 Maringá, PR - Brasil📧 Contato: gabrielmalavazi_dev@outlook.com
 
 🚀 Tecnologias & Ferramentas
 
 🖥️ Front-end
-
-⚡ React, JavaScript, TypeScript, HTML5, CSS3
+<div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s" alt="React" width="80" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_NP-gNVF6Iyy2tDjL9kv7pkTakRxG0IXtQ&s"alt="JavaScript" width="80" />
+</div>
+🎨 React.js, JavaScript, TypeScript, HTML5, CSS3
 
 ⚙️ Back-end & APIs
 
