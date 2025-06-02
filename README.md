@@ -1,5 +1,5 @@
 
-                                  🌟 Olá! Eu sou o Gabriel Malavazi Rodrigues 👋🚀
+                                                    🌟 Olá! Eu sou o Gabriel Malavazi Rodrigues 👋🚀
 
 🧑‍💻 Engenheiro de Software | Criador de Soluções Inovadoras
 
